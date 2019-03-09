@@ -3,7 +3,7 @@
   * `interviewees = m`
   * `interviewers = n`
   * `rooms = r`
-* Each interview is of **`1 hour`**, with **timslots** as per the following:
+* Each interview is of **`1 hour`**, with **timeslots** as per the following:
   * `9 - 10` hrs
   * `10 - 11` hrs
   * `11 - 12` hrs
